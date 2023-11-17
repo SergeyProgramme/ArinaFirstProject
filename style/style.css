@@ -1,0 +1,8 @@
+.card{
+    width: 100px;
+    height: 100px;
+    background: url(/image/Buttons\ \(3\).png) no-repeat center/contain ; 
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
